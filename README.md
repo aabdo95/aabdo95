@@ -55,10 +55,8 @@ abdelrahman = {
 ### 📈 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aabdo95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdo95&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-
+<img height="165" src="https://streak-stats.demolab.com?user=aabdo95&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdo95&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&count_private=true" />
 </div>
 
 ---
