@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelaahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaahmed/)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafez_123@outlook.com)
-![Profile Views](https://komarev.com/ghpvc/?username=aabdo95&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
