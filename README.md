@@ -164,12 +164,3 @@ routes.
 </div>
 
 ---
-
-## Experience
-
-| | | |
-|---|---|---|
-| **2026** | IT Intern | **Al Wathba National Insurance** — reported to the Head of IT at a listed insurer, across application development, cloud infrastructure and information security. Assessed the firm's security posture against the OWASP Top 10 and MITRE ATT&CK, mapped exposures to PDPL, NESA and ADHICS, and presented findings to management. |
-| **2025–26** | Level 2 Student Mentor | **University of Leeds** — mentored Level 1 students through a robotics project, ran their code reviews, presented final solutions to faculty. |
-| **2024–25** | Course Representative | **University of Leeds** — elected to speak for 300+ students; worked with faculty on data-driven changes to course structure. |
-| **2024** | IT Audit Intern | **KPMG Lower Gulf** — validated 1,054 controls across systems underpinning AED 440M of annual revenue, identified 12 critical control weaknesses, led GITC testing across 6 ERP and legacy systems, cut evidence collection time 30% through SQL automation. |
