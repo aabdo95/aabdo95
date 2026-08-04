@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-abdelaahmed-b45309?style=flat-square&labelColor=1c1917&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaahmed/)
 [![Email](https://img.shields.io/badge/email-hafez__123-b45309?style=flat-square&labelColor=1c1917&logo=maildotru&logoColor=white)](mailto:hafez_123@outlook.com)
-[![Available](https://img.shields.io/badge/available-june%202027-1c1917?style=flat-square&labelColor=1c1917)](https://www.linkedin.com/in/abdelaahmed/)
+
 
 </div>
 
@@ -15,7 +15,7 @@ READING · ABDELRAHMAN AHMED                                    ● FINAL YEAR
 
   EDUCATION    BSc Computer Science, University of Leeds
                First Class · 10% merit scholarship · graduating Jun 2027
-  FOCUS        ML engineering / quantitative research — indifferent, taking the best fit
+  FOCUS        ML/AI engineering, Quantitative development 
   PREVIOUSLY   Al Wathba National Insurance · KPMG Lower Gulf
   LANGUAGES    Arabic, English
 ```
@@ -124,14 +124,43 @@ routes.
 
 ---
 
-## Stack
+### Tech Stack
 
-```
-LANGUAGES   python · c · typescript/javascript · sql · kotlin · bash
-ML          lightgbm · xgboost · catboost · scikit-learn · pytorch · shap · optuna · mlflow
-DATA        polars · pandas · numpy · scipy · postgresql · timescaledb · redis
-SYSTEMS     docker · github actions · fastapi · react · websockets · aws · azure · linux
-```
+<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+ 
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC5A2A?style=for-the-badge&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-1F77B4?style=for-the-badge&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-2C6BAA?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+ 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+ 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+</div>
 
 ---
 
